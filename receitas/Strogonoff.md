@@ -1,8 +1,8 @@
-#Strogonoff de frango: chicken
+Strogonoff de frango
 
 ##
 
-###**Ingredientes**
+**Ingredientes**
 
  - 3 peitos de frango cortados em cubos
  - 1 dente de alho picado
@@ -18,8 +18,7 @@
 
 ##
 
-###**Modo de preparo**
-
+**Modo de preparo**
 
  - Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
